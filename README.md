@@ -9,12 +9,12 @@ Store repositories in your portfolio, wich will allow the creation, listing, upd
 
 ## :rocket: Tecnologies
 
--  [Node.js](https://nodejs.org/)
--  [ExpressJS](https://expressjs.com/pt-br/)
--  [Nodemon](https://nodemon.io/)
--  [Insomnia](https://insomnia.rest/)
--  [Cors](https://www.npmjs.com/package/cors)
--  [uuidv4](https://www.npmjs.com/package/uuidv4)
+-  [ReactJS](https://pt-br.reactjs.org/)
+-  [Babel](https://babeljs.io/)
+-  [Webpack](https://webpack.js.org/)
+-  [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+-  [Axios](https://www.npmjs.com/package/axios)
+-  [Jest](https://jestjs.io/)
 
 ## :information_source: How To Use
 
